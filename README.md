@@ -42,7 +42,7 @@ Word Variety: Enjoy a range of difficulty levels as words appear during each rou
 Live Feedback: Instantly see your performance wrong words are red. Watch your stats improve with each round! 🌟
 
 ## 🖥️ How to Run Blob-Type Locally
-...
+Download the files. You can run it through Live Server in VS code or open our HTML file in your browser.
 That's it! You're all set to start typing and improving your skills!
 
 ## 🎨 Customization Ideas
