@@ -9,7 +9,7 @@ The objective is straightforward: type quickly and accurately. ⏳ As the timer 
 
 2: Type the Words: Words will appear on the screen. Enter them into the text box as fast and accurately as possible.
 
-3: Monitor Your Stats: Incorrect words are highlighted in red. Your WPM and accuracy stats update in real-time.
+3: Your WPM and accuracy stats update.
 
 4: View Results: Once time is up, you'll see a detailed breakdown of your performance, including total time, accuracy, and WPM.
 
