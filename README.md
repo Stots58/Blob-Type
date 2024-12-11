@@ -43,7 +43,7 @@ Word Variety: Encounter words of varying difficulty to keep each round exciting.
 
 Feedback: Receive performance updates, making it easy to track and improve.
 
-## 🖥️ Running Blob-Type Locally
+## 🖥️ Running Blob-Type
 Download the Files: Download the repository.
 
 Run Locally: Open the HTML file in your browser or use Live Server in VS Code.
