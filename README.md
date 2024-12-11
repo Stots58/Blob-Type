@@ -1,57 +1,49 @@
 # Blob-Type Game 🚀👾
-
-Welcome to Blob-Type—the typing game that turns speed and accuracy into a fun, vibrant challenge! Whether you're a master typist or a newbie, this game will help you level up your typing skills while you enjoy a cool, blob-tastic vibe! Ready to get your fingers moving? Let’s go!
+Welcome to Blob-Type, the ultimate typing game blends speed and accuracy with a vibrant, engaging design! Whether you're an experienced typist or just getting started, this game is here to sharpen your typing skills in a fun and dynamic way. Ready to challenge yourself?
 
 ## 🏁 Game Objective
-The goal is simple: Type fast and type accurately! ⏳ As the clock ticks down, you'll have a series of words to type. The faster and more accurately you type, the higher your score. Track your performance with accuracy, words per minute (WPM), and time.
+The objective is straightforward: type quickly and accurately. ⏳ As the timer counts, you'll type a series of words displayed on the screen. Your score is based on your speed and accuracy, with detailed performance metrics like words per minute (WPM) and accuracy percentages.
 
 ## 🎮 How to Play
-Choose Your Mode: Pick how long you want to play from the following time options:
-15 Seconds
-30 Seconds
-60 Seconds
-120 Seconds
+1: Select a Time Frame: Choose a time limit for your game 15, 30, 60, or 120 seconds.
 
-Type the Words: Words will appear on the screen—just type them into the box as quickly and accurately as possible.
+2: Type the Words: Words will appear on the screen. Enter them into the text box as fast and accurately as possible.
 
-Accuracy & WPM: Incorrect words will turn red. Your accuracy and WPM stats are updated in real time.
+3: Monitor Your Stats: Incorrect words are highlighted in red. Your WPM and accuracy stats update in real-time.
 
-Game Over: When time runs out, your final stats will appear, including the time, accuracy percentage, and WPM.
+4: View Results: Once time is up, you'll see a detailed breakdown of your performance, including total time, accuracy, and WPM.
 
-Reset & Restart: Hit the Reset button to try again and challenge yourself to beat your previous score!
+5: Restart and Improve: Use the Reset button to start a new round and aim for a better score!
 
 ## ✨ Features
-Customizable Game Modes: Choose from 15, 30, 60, or 120-second rounds—tailor your experience!
-Real-Time Stats: Track your accuracy and WPM as you type.
-Blob-Tastic Design: A playful and colorful blob-themed interface to keep the game looking fresh!
-Colored Cursor: Type with a colorful cursor!
+Customizable Time Frame: Choose from 15, 30, 60, or 120-second rounds.
+
+Feedback: Track your WPM and accuracy live as you type.
+
+Cool Design: Enjoy a visually captivating, blob-themed interface.
 
 ## 🔧 Technologies Used
-HTML: For structuring the content.
-CSS: To make the game look awesome, including fun visual effects like the glowing cursor.
-JavaScript: To power the gameplay, track stats, and manage the timer.
+HTML: Provides the structure for the game.
 
-## 🏆 How to Win
-Type quickly and accurately to rack up the highest WPM!
-Beat your own high score each time!
-Challenge your friends—who can get the highest accuracy and fastest WPM? 💪
+CSS: Enhances visuals with a stylish and cool design.
 
-## 🎉 Fun Features
-Dazzling Interface: Blob-inspired visuals that keep the game engaging and playful! 🌈
-Word Variety: Enjoy a range of difficulty levels as words appear during each round!
-Live Feedback: Instantly see your performance wrong words are red. Watch your stats improve with each round! 🌟
+JavaScript: Drives the game logic, timer, and real-time performance tracking.
 
-## 🖥️ How to Run Blob-Type Locally
-Download the files. You can run it through Live Server in VS code or open our HTML file in your browser.
-That's it! You're all set to start typing and improving your skills!
+## 🏆 Tips to Succeed
+Focus on typing accurately to avoid penalties for mistakes.
 
-## 🎨 Customization Ideas
-Make Blob-Type your own! You can:
+Build your speed over time to maximize your WPM.
 
-Change the background theme to something even more blob-tacular!
-Update the font for a new vibe.
-Add more word difficulty levels to keep the challenge going.
-Feel free to fork the repo and experiment with your ideas! 🚀
+Challenge friends to see who can achieve the highest score!
 
-## 🤝 Contributing
-We welcome contributions! If you want to add new features, suggest improvements, or report bugs, please feel free to open an issue or submit a pull request.
+## 🎉 Unique Features
+Blob-Inspired Visuals: A colorful, cool design that keeps the experience fun and engaging.
+
+Word Variety: Encounter words of varying difficulty to keep each round exciting.
+
+Feedback: Receive performance updates, making it easy to track and improve.
+
+## 🖥️ Running Blob-Type Locally
+Download the Files: Download the repository.
+
+Run Locally: Open the HTML file in your browser or use Live Server in VS Code.
